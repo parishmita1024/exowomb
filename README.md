@@ -53,9 +53,7 @@ This idea led to **ExoWomb** — a simulator for fetal growth in space-like cond
 <br>
 ## 📐 UI Preview
 <br>
-> *(Coming soon — Figma mockup + hosted link)*  
-<br>
-> `https://exowomb.uc.r.appspot.com` (Google Cloud demo URL)
+> *(Coming soon — Figma mockup)*  
 <br>
 ---
 <br>
