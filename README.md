@@ -151,5 +151,5 @@ I plan to contribute as a **UI/UX Designer + beginner Python developer**, buildi
 <br>
 ## 🪪 License
 <br>
-MIT License © 2025 [Parishmita Bora]
+MIT License © 2026 [Parishmita Bora]
 
