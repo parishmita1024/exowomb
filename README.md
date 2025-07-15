@@ -105,7 +105,7 @@ This idea led to **ExoWomb** — a simulator for fetal growth in space-like cond
 
 ---
 <br>
-## 🤝 GSoC 2025 Plans
+## 🤝 GSoC 2026 Plans
 <br>
 > I’m preparing **ExoWomb** as a personal proposal for **Google Summer of Code 2025**, aiming to apply under:
 <br>
